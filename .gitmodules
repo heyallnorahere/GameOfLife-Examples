@@ -1,0 +1,3 @@
+[submodule "GameOfLife"]
+	path = GameOfLife
+	url = https://github.com/yodasoda1219/GameOfLife.git

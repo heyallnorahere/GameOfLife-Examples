@@ -1,0 +1,9 @@
+<Project>
+
+    <PropertyGroup>
+        <OutDir>$(MSBuildThisFileDirectory)\..\bin</OutDir>
+        <LangVersion>latest</LangVersion>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+</Project>
